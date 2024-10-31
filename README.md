@@ -213,3 +213,6 @@ Apart from those 2 services, we have to create Service Registry application to e
 - Run the application: go to main() file, clikc Run As --> Spring Boot application
 - Testing You can test the API endpoints using Postman or any API client of your choice.
 - Ensure you have the necessary authorization headers when making requests to secure endpoints.
+
+The main objective of this project is how a microservices architecture application looks like, how it wokrs and internal work-flow of application is show-cased here.
+As mentioned in beginning, the same project has been implemented using monolithic application with new repo : **https://github.com/bsainath99/quizApp-monolithic.git**

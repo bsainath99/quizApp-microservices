@@ -1,6 +1,6 @@
 
 # Quiz App - Microservices 
-Before diving into this project, recently I've done same project implemented using monolithic application with new repo : https://github.com/bsainath99/quizApp-monolithic.git
+Before diving into this project, recently I've done same project implemented using monolithic architecture application with new github repository : https://github.com/bsainath99/quizApp-monolithic.git
 
 In this project, I have implemented quiz application using Microservices architecture.
 
